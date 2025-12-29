@@ -1,6 +1,7 @@
 # Thymer Quick Capture Plugin
 
 A native Thymer plugin for quickly capturing notes and adding them to today's Journal or any page in your workspace.
+<img width="491" height="375" alt="image" src="https://github.com/user-attachments/assets/8ff0a936-6f63-44eb-a1aa-825a0b545400" />
 
 ## Features
 
